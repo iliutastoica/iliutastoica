@@ -1,15 +1,31 @@
-### Hi there 👋
+### Hi, I'm Iliuta Stoica 👋
 
-Frontend developer
+**Frontend Developer | React + TypeScript | UI Developer | Accessibility Advocate **
+
+I'm a passionate frontend engineer with 14+ years of experience building responsive, accessible, and maintainable web applications.
+
+### 🔧 Tech Stack
+- React 16–18, Redux Toolkit, Gatsby, Next.js, Angular 9+
+- TypeScript, JavaScript (ES6+), GraphQL, React Testing Library
+- Styled Components, CSS Modules, SASS, MUI, Storybook
+- GitLab CI/CD, SonarQube, Jest, React Testing Library
+- Performance Optimizations, Accessibility (WCAG), SEO (Structured Data)
+
+### 📊 Currently focused on:
+- Microfrontend architecture using Module Federation
+- Playwright E2E test pipelines
+- UI performance profiling + lighthouse scoring
+- 🧠  Learning gaming coding like Unity
+- 🤝  I'm open to collaborating on Different frontend projects
+
+### 🚀 Some Links
+- ✨ Portfolio: [iliutastoica.ro/projects](https://iliutastoica.ro/projects)
+- 💻 Codepen: [codepen.io/iliutastoica](https://codepen.io/iliutastoica)
+- 📊 GitHub: [github.com/iliutastoica](https://github.com/iliutastoica)
+- 🔍 LinkedIn: [linkedin.com/in/iliutastoica](https://www.linkedin.com/in/iliutastoica)
 ------------------
 
-A 12+ years experienced frontend developer
 
-* 🌍  I'm based in Bucharest
-* 🖥️  See my portfolio at [https://ilistoica.dev](http://Iliutastoica.ro)
-* ✉️  You can contact me at [hello@iliutastoica.ro](mailto:hello@iliutastoica.ro)
-* 🧠  I'm learning Unity
-* 🤝  I'm open to collaborating on Different frontend projects
 
 ### Skills
 
