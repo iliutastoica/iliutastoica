@@ -1,34 +1,30 @@
 ### Hi, I'm Iliuta Stoica 👋
 
-**Frontend Developer | React + TypeScript | UI Developer | Accessibility Advocate **
+**Senior Frontend Engineer focused on React, TypeScript, MFE - microfrontends, Node.JS as BFF and Design Systems. I build reusable frontend components and help teams integrate shared UI across applications**
 
-I'm a passionate frontend engineer with 14+ years of experience building responsive, accessible, and maintainable web applications.
+### 🚀 Social Links
+- ✨ Portfolio: [iliutastoica.ro/projects](https://iliutastoica.ro/projects)
+- 💻 Codepen: [codepen.io/iliutastoica](https://codepen.io/iliutastoica)
+- 📊 GitHub: [github.com/iliutastoica](https://github.com/iliutastoica)
+- 🔍 LinkedIn: [linkedin.com/in/iliutastoica](https://www.linkedin.com/in/iliutastoica)
+
+------------------
+
+### 🌱 I’m currently interested in ...
+- 🧠  AI decisions layers
+- ✨ Performance Optimizations, Accessibility (WCAG)
+- 🌱 Gardening, Susteinability
+
+<!--
 
 ### 🔧 Tech Stack
-- React 16–18, Redux Toolkit, Gatsby, Next.js, Angular 9+
+- React 16–18, Redux Toolkit, Gatsby, Next.js
 - TypeScript, JavaScript (ES6+), GraphQL, React Testing Library
 - Styled Components, CSS Modules, SASS, MUI, Storybook
 - GitLab CI/CD, SonarQube, Jest, React Testing Library
 - Performance Optimizations, Accessibility (WCAG), SEO (Structured Data)
 
-### 📊 Currently focused on:
-- Microfrontend architecture using Module Federation
-- Playwright E2E test pipelines
-- UI performance profiling + lighthouse scoring
-- 🧠  Learning gaming coding like Unity
-- 🤝  I'm open to collaborating on Different frontend projects
-
-### 🚀 Some Links
-- ✨ Portfolio: [iliutastoica.ro/projects](https://iliutastoica.ro/projects)
-- 💻 Codepen: [codepen.io/iliutastoica](https://codepen.io/iliutastoica)
-- 📊 GitHub: [github.com/iliutastoica](https://github.com/iliutastoica)
-- 🔍 LinkedIn: [linkedin.com/in/iliutastoica](https://www.linkedin.com/in/iliutastoica)
-------------------
-
-
-
 ### Skills
-
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
