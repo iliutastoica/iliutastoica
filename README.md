@@ -1,12 +1,12 @@
 [![Iliuta Stoica, Senior Frontend Engineer](assets/portfolio-hero.svg)](https://iliutastoica.github.io/)
 
-I build React components and help teams share them across applications, from design systems to microfrontends. I use TypeScript and work with Node.js when a frontend needs its own service layer.
+I build and modernize web applications. I’ve built shared UI for React apps, helped migrate legacy applications to [Next.js](https://iliutastoica.github.io/about/#experience-title), and worked on Node.js backend-for-frontend services.
 
 ## Selected work
 
 - [Modular Frontend Integration](https://iliutastoica.github.io/work/modular-frontend-integration/) — connecting parts of an application that teams ship separately.
 - [Reusable UI Components](https://iliutastoica.github.io/work/reusable-ui-components/) — typed React components and their keyboard and interaction states.
-- [MetroSense](https://iliutastoica.github.io/work/metrosense-platform/) — a React Native learning prototype for transit maps and journey planning.
+- [Data Interface Patterns](https://iliutastoica.github.io/work/data-interface-patterns/) — loading, results, and recovery states for data-heavy screens.
 
 I’m interested in accessibility, frontend performance, and how people review AI-assisted decisions. Away from the keyboard, I like gardening.
 
